@@ -1,0 +1,26 @@
+﻿Build started 2018/4/16 上午 05:29:10.
+     1>Project "C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Image Stitching\Image Stitching.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(100): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(163): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(164): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(212): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(384): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(518): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(528): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(540): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(604): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user170719b02\documents\visual studio 2013\projects\image stitching\image stitching\source.cpp(630): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Debug\Image Stitching.exe" /INCREMENTAL /NOLOGO opencv_core2411d.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_features2d2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_nonfree2411d.lib opencv_legacy2411d.lib opencv_legacy2411.lib opencv_nonfree2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Debug\Image Stitching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Debug\Image Stitching.lib" /MACHINE:X86 Debug\Source.obj
+         Image Stitching.vcxproj -> C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Debug\Image Stitching.exe
+     1>Done Building Project "C:\Users\USER170719B02\Documents\Visual Studio 2013\Projects\Image Stitching\Image Stitching\Image Stitching.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
