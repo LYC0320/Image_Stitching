@@ -12,4 +12,4 @@
 
 <img align="left" src="https://github.com/LYC0320/Image_Stitching/blob/master/Image%20Stitching/bin/results/l3+l4.jpg">
 
-<img align="left" src="https://github.com/LYC0320/Image_Stitching/blob/master/Image%20Stitching/bin/results/l1+l2l3+l4.jpg">
+<img align="left" src="https://github.com/LYC0320/Image_Stitching/blob/master/Image%20Stitching/bin/results/l1+l2+l3+l4.jpg">
