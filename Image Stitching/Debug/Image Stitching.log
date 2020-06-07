@@ -1,26 +1,38 @@
-﻿Build started 2018/4/19 下午 09:06:55.
-     1>Project "C:\Users\cxl\Downloads\Image_Stitching-master\Image Stitching\Image Stitching.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2020/6/7 下午 04:51:27.
+     1>Project "C:\Users\cxl\Desktop\Image_Stitching\Image Stitching\Image Stitching.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
          Source.cpp
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(65): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(74): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(78): warning C4305: '=' : truncation from 'double' to 'float'
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(87): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(117): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(206): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(226): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
-                 c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(183) : definition of 'i' ignored
-                 c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(104) : definition of 'i' used
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(241): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(251): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(262): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\cxl\downloads\image_stitching-master\image stitching\source.cpp(337): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(82): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(83): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(94): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(131): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(164): warning C4305: 'initializing' : truncation from 'int' to 'float'
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(203): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(284): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(321): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(322): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(377): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(390): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(391): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(402): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(403): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(423): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(437): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(449): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(469): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(482): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(494): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(621): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(644): warning C4305: 'initializing' : truncation from 'int' to 'float'
+     1>c:\users\cxl\desktop\image_stitching\image stitching\source.cpp(653): warning C4018: '<' : signed/unsigned mismatch
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cxl\Downloads\Image_Stitching-master\Debug\Image Stitching.exe" /INCREMENTAL /NOLOGO opencv_core2411d.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_features2d2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_nonfree2411d.lib opencv_legacy2411d.lib opencv_legacy2411.lib opencv_nonfree2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cxl\Downloads\Image_Stitching-master\Debug\Image Stitching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cxl\Downloads\Image_Stitching-master\Debug\Image Stitching.lib" /MACHINE:X86 Debug\Source.obj
-         Image Stitching.vcxproj -> C:\Users\cxl\Downloads\Image_Stitching-master\Debug\Image Stitching.exe
-     1>Done Building Project "C:\Users\cxl\Downloads\Image_Stitching-master\Image Stitching\Image Stitching.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cxl\Desktop\Image_Stitching\Debug\Image Stitching.exe" /INCREMENTAL /NOLOGO opencv_core2411d.lib opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_features2d2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_nonfree2411d.lib opencv_legacy2411d.lib opencv_legacy2411.lib opencv_nonfree2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cxl\Desktop\Image_Stitching\Debug\Image Stitching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cxl\Desktop\Image_Stitching\Debug\Image Stitching.lib" /MACHINE:X86 Debug\Source.obj
+         Image Stitching.vcxproj -> C:\Users\cxl\Desktop\Image_Stitching\Debug\Image Stitching.exe
+     1>Done Building Project "C:\Users\cxl\Desktop\Image_Stitching\Image Stitching\Image Stitching.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.48
+Time Elapsed 00:00:01.52
